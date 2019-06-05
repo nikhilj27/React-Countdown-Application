@@ -1,2 +1,2 @@
 # React Countdown Application
-To run just use command npm install and the npm start
+To run just use command npm install and then npm start
